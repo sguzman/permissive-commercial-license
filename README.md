@@ -12,7 +12,7 @@
 | Official SPDX identifier | None claimed |
 | Maintainer | [Salvador Guzman](https://github.com/sguzman) |
 
-[Read the complete draft](PCL-1.0-draft.1.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md)
+[Read the complete draft](PCL-1.0-draft.1.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md) · [Preliminary legal review](reviews/2026-11-26-draft.1.md)
 
 ## 1. Purpose
 
@@ -121,7 +121,7 @@ The canonical draft is versioned in this repository. Do not silently change the 
 
 ## 8. Status and feedback
 
-This is an independently maintained license proposal, not a standard endorsed by a foundation, standards organization, or legal authority. No legal review, court validation, or formal name/trademark clearance is claimed.
+This is an independently maintained license proposal, not a standard endorsed by a foundation, standards organization, or legal authority. A [preliminary AI-assisted legal drafting review](reviews/2026-11-26-draft.1.md) is available; no attorney review, court validation, or formal name/trademark clearance is claimed.
 
 Feedback on ambiguity, practical edge cases, compatibility, and legal drafting is welcome through [GitHub Issues](https://github.com/sguzman/permissive-commercial-license/issues). See [design and review notes](DESIGN.md) for the outstanding questions.
 
