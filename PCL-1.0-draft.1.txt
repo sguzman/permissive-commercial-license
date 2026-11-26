@@ -1,0 +1,99 @@
+Permissive Commercial License (PCL)
+Version 1.0 — Draft 1 (2026-11-26)
+
+Copyright (c) [year] [copyright holder(s)]
+
+1. Scope and definitions
+
+This License applies only to material that a holder of the relevant rights expressly identifies as licensed under this version of the Permissive Commercial License (the "Work"). The "Licensor" means each such holder, to the extent of the rights that holder grants. "You" means a person or entity exercising those permissions.
+
+The Work may include software, source and object code, documentation, audiovisual material, artwork, sound, and other copyrightable material. Third-party material is covered only to the extent its rights holder has expressly licensed it under this License.
+
+A "Commercial Distribution" is making a copy or version of the Work available to others in exchange for payment or in connection with revenue directly attributable to its distribution or publication, including advertising revenue, paid access, subscriptions, or sponsorship of that publication. Commercial use without such distribution is not Commercial Distribution. An ordinary business website, unrelated advertising, or voluntary donations alone do not make otherwise free distribution a Commercial Distribution unless the distribution itself is monetized.
+
+A "Commercial Substitute" is a copy or version presented to substantially the same intended audience for substantially the same principal purpose as an original authorized publication or product of the Licensor, such that a reasonable recipient could obtain substantially the same principal value from it instead of the original. A work is "Substantially Unchanged" if its protected content or functionality, considered as a whole, is reproduced without material original additions or transformations that provide independent value relevant to the recipient's use. The assessment is qualitative, not a fixed percentage of changed lines, files, or minutes.
+
+2. Grant of rights
+
+Subject to Sections 3 and 4, each Licensor grants You a worldwide, royalty-free, nonexclusive copyright license, for the duration of the applicable copyright, to use, execute, reproduce, study, modify, adapt, translate, publicly display, publicly perform, communicate, make available, distribute, and otherwise exploit the Work and derivative works for any purpose, including commercial purposes, in any medium or format.
+
+You may incorporate the Work into other products or services, sell copies and derivative works, and license Your independently created contributions under terms of Your choice. You may distribute derivative works in source or binary form without publishing Your source code or modifications. No royalties, mandatory contributions, or obligation to disclose modifications are imposed by this License.
+
+Recipients receive the permissions of this License directly from the Licensor for the covered portions of the Work. You may not represent Your own terms as superseding those permissions or authorize conduct outside the grant for material owned by the Licensor.
+
+3. Narrow restriction on commercial substitution
+
+The grant does not authorize Commercial Distribution of the Work where BOTH of the following conditions are satisfied:
+
+(a) the copy or version is Substantially Unchanged; and
+(b) it is a Commercial Substitute for an original authorized publication or product of the Licensor.
+
+This restriction applies whether the distribution is conducted directly or through another person or platform. Changing a name, logo, metadata, file format, compression, packaging, storefront, superficial appearance, or other incidental feature does not by itself constitute a material transformation.
+
+Without limiting Section 2, the following activities are permitted, subject to Section 4:
+
+(a) internal use, including commercial internal use;
+(b) noncommercial distribution, including unchanged copies;
+(c) reasonable charges for physical media, bandwidth, or other actual distribution costs, and genuine additional services such as support, integration, customization, teaching, or maintenance, provided those charges are not a disguised charge for a prohibited Commercial Substitute;
+(d) distribution and sale of works that contain material original functionality, expression, content, or other transformations providing independent value, even when they compete with the original;
+(e) commercial use or incorporation of the Work as a component in a materially distinct product or service, including ordinary hosted use that does not distribute a prohibited Commercial Substitute;
+(f) commentary, criticism, reviews, tutorials, demonstrations, gameplay recordings, and similar transformative or independently valuable publications, including monetized publications;
+(g) commercial distribution of unchanged copies that are not Commercial Substitutes.
+
+Competition alone is not prohibited. This License does not restrict independent creation or the use of ideas, facts, methods, or other material not protected by the Licensor's applicable rights. The restriction is not a general covenant not to compete.
+
+A Licensor may expressly authorize otherwise restricted distribution of its own material under separate written terms.
+
+4. Attribution and preservation of terms
+
+When distributing or publicly publishing the Work or a derivative that incorporates protected portions of it, retain applicable copyright and attribution notices and provide a copy of this License or a durable, reasonably accessible reference to this exact version.
+
+For software distributed as binaries, attribution and license information may be included in accompanying documentation, a notices file, or an accessible in-product notice. For audiovisual or other creative material, reasonably prominent credits or accompanying publication information may be used.
+
+If the Work has been modified, reasonably identify the fact of modification. Attribution must not imply endorsement, sponsorship, or official status where none exists.
+
+Third-party notices and license obligations remain independently applicable. You may impose terms on Your own contributions but may not remove the applicable notices or misrepresent the rights granted by the Licensor.
+
+5. Reserved rights and identity
+
+No trademark, trade name, logo, personality, privacy, or other non-copyright right is granted by this License. Truthful attribution and other uses independently permitted by law are unaffected. You may not falsely represent a derivative or redistribution as an official release or as endorsed by the Licensor.
+
+No express patent license is granted. Any patent rights arising independently under applicable law are unaffected.
+
+All rights not expressly granted are reserved. Nothing in this License restricts statutory exceptions, limitations, public-domain material, or other rights You have independently of this License.
+
+6. No warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE WORK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY, AND AVAILABILITY.
+
+THE LICENSOR AND CONTRIBUTORS MAKE NO REPRESENTATION THAT THE WORK WILL BE CORRECT, SAFE, COMPLETE, UNINTERRUPTED, FREE OF DEFECTS OR VULNERABILITIES, OR SUITABLE FOR ANY PARTICULAR USE. YOU ASSUME THE RISKS OF USING THE WORK TO THE EXTENT PERMITTED BY LAW.
+
+7. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, LOSS, COST, OR OTHER LIABILITY ARISING OUT OF OR IN CONNECTION WITH THE WORK, THIS LICENSE, OR THE USE, DISTRIBUTION, MODIFICATION, FAILURE, OR INABILITY TO USE THE WORK, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+
+THIS LIMITATION INCLUDES DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, AND EXEMPLARY DAMAGES, INCLUDING LOSS OF DATA, PROFITS, REVENUE, OR BUSINESS OPPORTUNITY.
+
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY, REMEDIES, WARRANTIES, OR OTHER RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED, INCLUDING ANY APPLICABLE MANDATORY CONSUMER PROTECTIONS.
+
+8. No obligation to maintain or support
+
+This License creates no obligation to provide support, maintenance, security fixes, updates, compatibility, continued distribution, or further development, or to guarantee the accuracy of educational or research material. Separate agreements and mandatory legal obligations remain unaffected.
+
+9. Termination and reinstatement
+
+Your permissions under this License terminate automatically upon a material violation of its conditions. Permissions are reinstated if You cease and fully remedy the violation within 30 days after becoming aware of it, unless the relevant Licensor has previously notified You in writing of permanent termination for a repeated material violation.
+
+Termination does not affect the rights of recipients who remain in compliance with this License. Sections 5 through 8 and 11 survive termination to the extent applicable. Reinstatement does not extinguish accrued claims or remedies.
+
+10. Versions and additional licensing
+
+The permissions granted for a particular version of the Work are irrevocable while You comply with the conditions of this License. A Licensor may offer its material under additional or different terms, or use different terms for future versions of the Work, without withdrawing permissions already granted to compliant recipients.
+
+Only the version of this License expressly identified for the Work applies, unless the Licensor expressly grants a choice of versions.
+
+11. Severability
+
+If any provision is invalid or unenforceable, it shall be ineffective only to the extent of that invalidity or unenforceability; the remaining provisions continue to apply to the extent permitted by law. Mandatory legal rights and obligations prevail.
+
+End of License.
