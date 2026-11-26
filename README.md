@@ -12,7 +12,7 @@
 | Official SPDX identifier | None claimed |
 | Maintainer | [Salvador Guzman](https://github.com/sguzman) |
 
-[Read the complete draft](PCL-1.0-draft.2.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md) · [Draft 1 review](reviews/2026-11-26-draft.1.md) · [Draft 2 revision assessment](reviews/2026-11-26-draft.2.md)
+[Read the complete draft](PCL-1.0-draft.2.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md) · [Draft 1 review](reviews/2026-11-26-draft.1.md) · [Draft 2 revision assessment](reviews/2026-11-26-draft.2.md) · [Statutory and naming research](reviews/2026-11-26-statutory-and-name-check.md)
 
 ## 1. Purpose
 
