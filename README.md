@@ -4,15 +4,15 @@
 
 | Specification | Status |
 | --- | --- |
-| Version | 1.0 — Draft 1 |
+| Version | 1.0 — Draft 2 |
 | Date | 26 November 2026 |
 | Classification | Source-available / custom copyright license |
-| Legal review | Pending; not recommended for production adoption until reviewed |
+| Legal review | Preliminary drafting review completed; qualified attorney review pending |
 | OSI approval | None; the commercial redistribution restriction is incompatible with the Open Source Definition |
 | Official SPDX identifier | None claimed |
 | Maintainer | [Salvador Guzman](https://github.com/sguzman) |
 
-[Read the complete draft](PCL-1.0-draft.1.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md) · [Preliminary legal review](reviews/2026-11-26-draft.1.md)
+[Read the complete draft](PCL-1.0-draft.2.txt) · [Adoption guide](ADOPTION.md) · [FAQ and examples](FAQ.md) · [Design and review notes](DESIGN.md) · [Version history](CHANGELOG.md) · [Draft 1 review](reviews/2026-11-26-draft.1.md) · [Draft 2 revision assessment](reviews/2026-11-26-draft.2.md)
 
 ## 1. Purpose
 
@@ -49,15 +49,15 @@ The following is an explanatory summary, not a substitute for the license text.
 
 Conditions of permitted redistribution: retain attribution, preserve the applicable license information, and reasonably identify modifications. Third-party rights and mandatory law still apply.
 
-No royalties, mandatory upstream contribution, general noncompete clause, or source-disclosure requirement are imposed by the draft.
+No contractual royalties, mandatory upstream contribution, general noncompete clause, or source-disclosure requirement are imposed by the draft. Nonwaivable statutory remuneration and moral rights remain unaffected.
 
 ## 3. The commercial-substitution test
 
 Section 3 restricts distribution only when all three elements are present:
 
-1. **Commercial distribution.** Payment or revenue directly attributable to making the copy available, including monetized publication.
-2. **Substantially unchanged work.** The protected expression or functionality remains effectively the same, without material transformations that provide independent value.
-3. **Commercial substitution.** The offering serves substantially the same audience and principal purpose as an original authorized offering, providing substantially the same principal value instead of it.
+1. **Commercial distribution.** Payment or revenue directly attributable to making the copy available, including monetized publication or paid access to a copy in a bundle; unrelated business revenue and voluntary donations alone do not qualify.
+2. **Substantially unchanged work.** Protected expression actually copied from the relevant Work remains effectively unchanged, without material transformations that provide independent value. Similar functionality alone is insufficient.
+3. **Commercial substitution.** The offering serves substantially the same audience and principal purpose as an authorized offering publicly available by the time of distribution, providing substantially the same principal value instead of it.
 
 If any element is absent, the narrow restriction does not apply. All other license conditions remain applicable.
 
@@ -68,7 +68,7 @@ If any element is absent, the narrow restriction does not apply. All other licen
 | Yes | Yes | No | Permitted |
 | Yes | Yes | Yes | Not authorized |
 
-The test is qualitative. There is no arbitrary minimum number of changed lines, minutes of new footage, or percentage of replaced assets. A new logo or different file format does not alone make an otherwise unchanged copy meaningfully distinct.
+PCL applies only to copyright-protected material actually used under its grant. Independently creating a competing product is outside its restriction. Cloning a repository, building and modifying it, including for commercial development, is expressly permitted. The test is qualitative. There is no arbitrary minimum number of changed lines, minutes of new footage, or percentage of replaced assets. A new logo or different file format does not alone make an otherwise unchanged copy meaningfully distinct.
 
 ## 4. Practical examples
 
@@ -91,7 +91,7 @@ More cases, including gray areas, appear in the [FAQ](FAQ.md). These examples ar
 
 Sections 6–8 provide an as-is/as-available disclaimer, broad limitations of liability, and no contractual obligation under the license to maintain or support the Work.
 
-The intention is to protect authors and contributors from claims based on bugs, inaccurate results, security defects, downtime, incompatibility, or other failures. These provisions operate only to the extent permitted by applicable law. No copyright license can guarantee that an author will never be sued or eliminate mandatory consumer, safety, or other legal obligations.
+The intention is to protect authors and contributors from claims based on bugs, inaccurate results, security defects, downtime, incompatibility, or other failures. These provisions operate only to the extent permitted by applicable law. No copyright license can guarantee that an author will never be sued or eliminate mandatory consumer, safety, or other legal obligations. The public copyright license is not a substitute for a separate paid-product or service agreement; legally nonwaivable liability, including fraud or intentional misconduct where applicable, is preserved.
 
 ## 6. Relationship to other licensing models
 
@@ -117,7 +117,7 @@ The current text is a discussion draft. Before adopting it in production, have q
 
 For evaluation and review, the [adoption guide](ADOPTION.md) provides an exact-version notice, guidance on marking covered files, treatment of third-party material, and an optional custom SPDX reference. No official SPDX registration is implied.
 
-The canonical draft is versioned in this repository. Do not silently change the terms while retaining the same version designation. The license text—not this README, examples, or FAQ—controls an actual grant.
+The [previous Draft 1](PCL-1.0-draft.1.txt) remains available unchanged. The canonical draft is versioned in this repository. Do not silently change the terms while retaining the same version designation. The license text—not this README, examples, or FAQ—controls an actual grant.
 
 ## 8. Status and feedback
 

@@ -8,7 +8,7 @@ Identify the copyright holders and confirm they control all rights they intend t
 
 ## 2. Use a fixed version
 
-For evaluation, copy [PCL-1.0-draft.1.txt](PCL-1.0-draft.1.txt) into the target project's LICENSE file, filling only the copyright placeholder. Do not remove the draft status or modify substantive terms while claiming to use the identical version. For production, use a legally reviewed final version once available.
+For evaluation, copy [PCL-1.0-draft.2.txt](PCL-1.0-draft.2.txt) into the target project's LICENSE file, filling only the copyright placeholder. Do not remove the draft status or modify substantive terms while claiming to use the identical version. For production, use a legally reviewed final version once available.
 
 Suggested notice:
 
@@ -16,7 +16,7 @@ Suggested notice:
 Copyright (c) [year] [copyright holder(s)]
 
 The material identified in this notice is licensed under the
-Permissive Commercial License, version 1.0 — Draft 1 (2026-11-26).
+Permissive Commercial License, version 1.0 — Draft 2 (2026-11-26).
 See the accompanying LICENSE file for the complete terms.
 
 This is a custom source-available license, not an OSI-approved license.
@@ -30,7 +30,7 @@ For a mixed-license project, name the covered paths or assets explicitly and mai
 If tooling supports custom SPDX references, a suggested local identifier for this exact draft is:
 
 ```text
-SPDX-License-Identifier: LicenseRef-PCL-1.0-draft.1
+SPDX-License-Identifier: LicenseRef-PCL-1.0-draft.2
 ```
 
 Supply the actual license text in the repository and in any relevant SPDX document's extracted licensing information. This is a custom reference, not an official SPDX-listed identifier. Some package managers or scanners may require a license-file field or other custom metadata. Do not substitute MIT or another recognized identifier to satisfy a validator.
@@ -47,10 +47,10 @@ Existing license grants remain effective for compliant recipients. Publish new r
 
 ## 6. Before production adoption
 
-- Obtain jurisdiction-specific review of Sections 3, 6, 7 and 9.
+- Obtain jurisdiction-specific review of Sections 1–5 and 6–9, including Mexican nonwaivable author rights, written/electronic licensing formalities and mandatory consumer liability.
 - Verify contributor permissions, ownership, and dependency compatibility.
 - Determine whether a separate commercial EULA or consumer disclosures are necessary.
 - Check name and trademark clearance.
-- Record the exact final license version alongside each release.
+- Record the exact final license version alongside each release; retain attributable notices, dated publication records and rights-holder authorizations. Public repository publication alone has not been established to satisfy every jurisdiction's formalities.
 
 No project outside this repository has been changed as part of publishing the draft.

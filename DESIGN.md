@@ -6,7 +6,7 @@
 - Commercial competition through meaningful improvements is expressly allowed.
 - Commercial distribution of substantially unchanged direct substitutes is the narrow exception.
 - Free redistribution, ordinary commercial component reuse and genuine paid services are permitted.
-- No royalties, source disclosure, or mandatory contribution.
+- No contractual royalties, source disclosure, or mandatory contribution; nonwaivable statutory rights are preserved.
 - Attribution and preservation of the applicable grant.
 - As-is warranty disclaimer, limitation of liability, and no support obligation, subject to mandatory law.
 
@@ -19,6 +19,10 @@
 5. No express patent grant, compulsory patent retaliation, choice of law, forum selection, indemnity, or arbitration clause was added. These are deliberate draft defaults, not findings that such terms are unnecessary.
 6. A 30-day cure mechanism, severability and continuing permissions are retained from the original proposal.
 7. No blanket application of PCL to the repository or other projects is inferred. Draft status is explicit.
+
+## Draft 2 refinements
+
+The [revision assessment](reviews/2026-11-26-draft.2.md) records the response to Draft 1 review findings. Independent creation was already excluded by Draft 1; Draft 2 clarifies, rather than introduces, that protection. The scope of copyright is not enlarged. Commercial development and cloning for development are expressly allowed. The no-express-patent-grant default is retained pending an explicit decision.
 
 ## Outstanding legal review
 

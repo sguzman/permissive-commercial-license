@@ -1,6 +1,6 @@
 # Frequently asked questions and examples
 
-This document explains intended operation of the [PCL 1.0 Draft 1](PCL-1.0-draft.1.txt). It does not add permissions or restrictions to the actual license text.
+This document explains intended operation of the [PCL 1.0 Draft 2](PCL-1.0-draft.2.txt). It does not add permissions or restrictions to the actual license text.
 
 ## Is this a noncommercial license?
 
@@ -8,7 +8,7 @@ No. Commercial internal use, ordinary commercial component reuse, meaningful com
 
 ## Does it prevent competitors from using my code?
 
-Not merely because they compete. A materially improved product may compete with the original. Independent implementation of an idea is not restricted by copyright permissions. A substantially unchanged commercially distributed substitute is not authorized.
+Not merely because they compete. Cloning the repository, compiling it and working on modifications are permitted, including for commercial development. A materially improved product may compete with the original. Independent implementation of an idea is not restricted by copyright permissions. A substantially unchanged commercially distributed substitute is not authorized.
 
 ## Can a third party sell my original work?
 
@@ -20,7 +20,7 @@ Yes, subject to notices and other conditions, if distribution is not commerciall
 
 ## What if a website has ads or donations?
 
-Revenue directly attributable to the publication may make it commercial distribution. Ordinary unrelated ads or voluntary donations alone do not necessarily do so. A paywalled mirror or a directly ad-monetized reupload of the original work will normally satisfy the commercial element. The unchanged and substitution elements must also be met.
+Revenue directly attributable to the publication may make it commercial distribution. Ordinary unrelated ads or voluntary donations alone do not necessarily do so. A paid bundle giving access to a copy, a mandatory donation gate, a paywalled mirror or a directly ad-monetized reupload of the original work will normally satisfy the commercial element. The unchanged and substitution elements must also be met.
 
 ## What counts as meaningful modification?
 
@@ -32,7 +32,7 @@ Translation is explicitly permitted. Noncommercial distribution is permitted sub
 
 ## Can someone create a closed-source fork?
 
-Yes. There is no obligation to provide modified source. Covered portions retain their PCL permissions and notices; the author of new contributions may license those contributions separately. A proprietary license for new code does not remove PCL rights in covered material.
+Yes. There is no obligation to provide modified source. Covered portions retain their PCL permissions and notices; the author of new contributions may license those contributions separately. A proprietary license for new code does not remove PCL rights in covered material. The restriction on downstream terms does not require separate component delivery, new source disclosure, or removal of technical access controls.
 
 ## Can a hosting company charge for a service?
 
@@ -56,7 +56,7 @@ You may choose a different license for future releases or offer alternative term
 
 ## Can a licensor still be sued?
 
-Yes. The draft disclaims warranties and limits liability only to the maximum extent permitted by law. It does not eliminate mandatory consumer obligations, personal injury liability where nonwaivable, or separate contractual obligations. It has not been reviewed by counsel.
+Yes. The draft disclaims warranties and limits liability only to the maximum extent permitted by law. It does not eliminate mandatory consumer obligations, personal injury liability where nonwaivable, or separate contractual obligations. It has not been reviewed by counsel. Fraud and intentional misconduct liability are expressly preserved where applicable law forbids exclusion. A separate consumer sale or service agreement may be necessary.
 
 ## Is PCL open source?
 
